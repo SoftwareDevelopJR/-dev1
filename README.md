@@ -1,2 +1,2 @@
-# -dev1
+# Ödev1
 JavaScript
